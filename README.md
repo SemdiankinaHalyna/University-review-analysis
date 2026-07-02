@@ -8,7 +8,7 @@
 
 ## 📘 Project Overview
 
-This project focuses on analyzing large-scale user feedback to extract actionable insights from unstructured text data. It addresses the challenge of transforming raw reviews into structured information that can support decision-making through sentiment analysis and issue detection.
+In this project, I demonstrate how NLP and machine learning techniques can automate the analysis of user reviews using student feedback as a case study. The project shows how to automatically identify the sentiment of reviews, uncover key issues, and transform unstructured text into structured insights for further analysis.
 
 Although demonstrated using higher education reviews, the proposed approach can be applied to feedback systems in various industries, including finance, e-commerce and customer support.
 
