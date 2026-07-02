@@ -39,10 +39,12 @@ The project follows a structured end-to-end pipeline for processing and analyzin
 ![Pipeline](https://github.com/SemdiankinaHalyna/University-review-analysis/blob/main/Images/pipeline.png)
 
 ## Skills
-- Data Collection 
+- Data Collection
+- EDA
 - Data Preparation 
 - Natural Language Processing 
-- Machine Learning 
+- Machine Learning
+- Model Evaluation
 - Data Visualization 
 - Business Reporting
 
