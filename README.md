@@ -1,4 +1,4 @@
-# Automated Feedback Analysis for Decision Support
+# Automated Feedback Analysis
 ### Case Study: Higher Education
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
