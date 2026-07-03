@@ -105,13 +105,13 @@ The approach is most valuable when applied to large-scale feedback collected fro
 `Selenium`, `BeautifulSoup`, `Pandas`, `NumPy`, `langdetect`, `re`
 
 **Machine Learning & NLP:**  
-`PyTorch`, `Scikit-learn (Logistic Regression, TF-IDF Vectorizer)`,  
+`Scikit-learn (Logistic Regression)`,  
 `Sentence Transformers (SBERT — sentence-transformers/paraphrase-multilingual-mpnet-base-v2)`,  
-`Transformers / Hugging Face (BertTokenizer, BertForSequenceClassification, nlptown/bert-base-multilingual-uncased-sentiment)`,  
-`SciPy`, `OS`, `Joblib`
+`Transformers / Hugging Face (nlptown/bert-base-multilingual-uncased-sentiment)`,
+`BERTopic`
 
 **Visualization & Clustering:**  
-`Excel`, `Matplotlib`, `Seaborn`, `Plotly`, `UMAP`,  
-`K-means`, `HDBSCAN`, `BERTopic`
+`Excel`, `Matplotlib`, `UMAP`,  
+`K-means`, `HDBSCAN`
 
 
