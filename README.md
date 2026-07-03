@@ -8,9 +8,10 @@
 
 ## 📘 Project Overview
 
-In this project, I demonstrate how NLP and machine learning techniques can automate the analysis of user reviews using student feedback as a case study. The project shows how to automatically identify the sentiment of reviews, uncover key issues, and transform unstructured text into structured insights for further analysis.
+This project demonstrates how NLP and machine learning techniques can automate the analysis of user reviews using student feedback as a case study. It covers the complete workflow—from web scraping and data preprocessing to sentiment classification, topic modeling, and visualization—transforming unstructured text into actionable insights.
 
-Although demonstrated using higher education reviews, the proposed approach can be applied to feedback systems in various industries, including finance, e-commerce and customer support.
+Although demonstrated using higher education reviews, the approach can be applied to customer feedback in many domains, including finance, e-commerce, healthcare, and customer support.
+
 
 💡  **Note:**  
 **This project demonstrates a feedback analytics methodology** using higher education reviews as an example. It is not intended to provide an official evaluation or ranking of educational institutions.  
