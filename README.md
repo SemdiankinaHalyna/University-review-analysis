@@ -17,11 +17,10 @@ Although demonstrated using higher education reviews, the approach can be applie
 **This project demonstrates a feedback analytics methodology** using higher education reviews as an example. It is not intended to provide an official evaluation or ranking of educational institutions.  
 **For privacy reasons, the universities are anonymized** and referred to by numbers (e.g., University_1, University_2).
 
----
 
 ## Business Problem
 
-Organizations receive large volumes of user feedback through reviews and surveys. Manual analysis is time-consuming, subjective, difficult to scale and often delays the identification of recurring or emerging issues.
+Organizations receive large volumes of user feedback through reviews and surveys. Manual analysis is time-consuming, subjective, difficult to scale, and often delays the identification of recurring or emerging issues.
 
 ## Solution
 
