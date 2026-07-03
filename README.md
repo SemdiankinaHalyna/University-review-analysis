@@ -25,7 +25,7 @@ Organizations receive large volumes of user feedback through reviews and surveys
 
 ## Solution
 
-Developed an end-to-end feedback analytics pipeline that automatically collects reviews, analyzes sentiment, identifies key issues using NLP and machine learning, and provides actionable insights through interactive dashboards. 
+Developed an end-to-end analytics pipeline that automates feedback analysis, enabling organizations to identify customer sentiment, detect recurring issues, and support data-driven decision-making.
 
 ## Expected Business Value
 
